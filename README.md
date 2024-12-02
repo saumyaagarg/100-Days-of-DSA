@@ -3,7 +3,7 @@
 - This repository contains day-wise solutions to all the problems I solve as part of the challenge. Each day focuses on specific concepts, with an emphasis on strengthening problem-solving skills and mastering data structures and algorithms.
 
 ## 📝 Blogs
-I'm documenting my journey on my Hashnode blog, where I share detailed explanations, observations, and takeaways from each day. Be sure to check it out for a deeper dive into the thought process behind these solutions at https://saumyaagarg.hashnode.dev/ !
+- I'm documenting my journey on my Hashnode blog, where I share detailed explanations, observations, and takeaways from each day. Be sure to check it out for a deeper dive into the thought process behind these solutions at https://saumyaagarg.hashnode.dev/ !
 
 ## 🛠️ Technologies Used
 - Languages: Primarily C++ and Java (occasionally other languages for variety).
@@ -19,13 +19,13 @@ Here’s an overview of the topics covered so far:
 - **Day 4**: Strings Basics
 - **Day 5**: Strings Advanced
   
-- Upcoming: Recursison, Stacks, Queues, and more!
-- Stay tuned for regular updates as I progress through this challenge!
+#### Upcoming: Recursison, Stacks, Queues, and more!
+#### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing
-While this repository is primarily for my personal learning, feel free to open issues or suggest optimizations for the solutions. Learning is better together!
+- While this repository is primarily for my personal learning, feel free to open issues or suggest optimizations for the solutions. Learning is better together!
 
 ## 💬 Feedback
-Your feedback is valuable! If you spot any issues or have suggestions, feel free to reach out via GitHub Issues or on my blog.
+- Your feedback is valuable! If you spot any issues or have suggestions, feel free to reach out via GitHub Issues or on my blog.
 
 ## Thank you for checking out my journey! Let’s keep learning and coding! 🌟

@@ -1,0 +1,6 @@
+Day 5: Strings Advanced
+1. Write a program to check if two strings are anagrams.
+2. Solve the problem of finding the first non-repeating character in a string.
+3. Write a function to find all substrings of a string.
+4. Implement a program to replace spaces in a string with a special character (e.g., %20).
+5. Solve the "longest common prefix" problem for an array of strings.

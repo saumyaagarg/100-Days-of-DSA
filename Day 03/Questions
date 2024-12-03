@@ -1,0 +1,6 @@
+Day 3: Arrays Advanced
+1. Implement a function to merge two sorted arrays.
+2. Write a program to find the union and intersection of two arrays.
+3. Solve the problem of finding a subarray with a given sum (for positive numbers).
+4. Implement Kadane's Algorithm to find the maximum sum subarray.
+5. Solve the problem of rearranging an array with alternate positive and negative numbers.

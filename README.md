@@ -12,14 +12,15 @@
 ## 📈 Progress
 Here’s an overview of the topics covered so far:
 
-### **Week 1: Strings and Arrays**
+### **Week 1: Strings, Arrays and Recursion Basics**
 - **Day 1**: Programming Fundamentals
 - **Day 2**: Arrays Basics
 - **Day 3**: Arrays Advanced
 - **Day 4**: Strings Basics
 - **Day 5**: Strings Advanced
+- **Day 6**: Arrays Problems
   
-#### Upcoming: Recursison, Stacks, Queues, and more!
+#### Upcoming: Stacks, Queues, Linked Lists and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

@@ -1,0 +1,6 @@
+Day 6: Arrays - Problems
+1. Write a program to rotate an array of size n by k steps to the right in O(n) time without using extra space.
+2. Given an array containing n-1 distinct integers in the range of 1 to n, write a program to find the missing number in O(n) time using a mathematical formula or XOR.
+3. Rearrange an array such that the first element is the largest, the second is the smallest, the third is the second largest, and so on. Solve this in O(n) time using no extra space.
+4. Write a program to find the contiguous subarray with the maximum sum in O(n) time.
+5. Write a program to count the frequency of each element in an array in O(n) time without using extra space (modify the array temporarily if needed).

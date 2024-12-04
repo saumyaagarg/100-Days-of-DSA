@@ -1,0 +1,6 @@
+Day 7: Recursion Basics
+1. Write a recursive function to calculate the factorial of a number.
+2. Solve the Tower of Hanoi problem for 3 disks.
+3. Implement a recursive program to print all subsequences of a string.
+4. Write a recursive function to find the nth Fibonacci number.
+5. Solve the "sum of digits in a number" problem using recursion.

@@ -1,0 +1,6 @@
+Day 8: Stacks
+1. Implement a stack using arrays.
+2. Write a program to check for balanced parentheses using a stack.
+3. Solve the "next greater element" problem using a stack.
+4. Write a program to reverse a string using a stack.
+5. Implement a stack that supports push, pop, and finding the minimum element in O(1) time.

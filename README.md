@@ -20,8 +20,12 @@ Here’s an overview of the topics covered so far:
 - **Day 5**: Strings Advanced
 - **Day 6**: Arrays Problems
 - **Day 7**: Recursion Basics
+
+### **Week 2: Data Structures, Sorting and Searching Algorithms**
+- **Day 8**: Stacks
+- **Day 9**: Queues
   
-#### Upcoming: Stacks, Queues, Linked Lists and more!
+#### Upcoming: Linked Lists, Sliding Window, BSTs and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

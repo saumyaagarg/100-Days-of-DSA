@@ -6,8 +6,8 @@
 - I'm documenting my journey on my Hashnode blog, where I share detailed explanations, observations, and takeaways from each day. Be sure to check it out for a deeper dive into the thought process behind these solutions at https://saumyaagarg.hashnode.dev/ !
 
 ## 🛠️ Technologies Used
-- Languages: Primarily C++ and Java (occasionally other languages for variety).
-- Tools: IDEs, compilers, and version control through Git.
+- Languages: C++
+- Tools: VSCode
 
 ## 📈 Progress
 Here’s an overview of the topics covered so far:

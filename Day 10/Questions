@@ -1,0 +1,6 @@
+Day 10: Linked Lists Basics
+1. Implement a singly linked list with operations for insertion, deletion, and traversal.
+2. Write a program to reverse a linked list.
+3. Solve the "detect a cycle in a linked list" problem using Floyd’s Cycle Detection algorithm.
+4. Write a program to merge two sorted linked lists.
+5. Solve the "find the middle element of a linked list" problem.

@@ -25,6 +25,7 @@ Here’s an overview of the topics covered so far:
 - **Day 8**: Stacks
 - **Day 9**: Queues
 - **Day 10**: Linked Lists Basics
+- **Day 11**: Sorting Basics
   
 #### Upcoming: Searching Algorithms, Sliding Window, BSTs and more!
 #### Stay tuned for regular updates as I progress through this challenge!

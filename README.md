@@ -24,8 +24,9 @@ Here’s an overview of the topics covered so far:
 ### **Week 2: Data Structures, Sorting and Searching Algorithms**
 - **Day 8**: Stacks
 - **Day 9**: Queues
+- **Day 10**: Linked Lists Basics
   
-#### Upcoming: Linked Lists, Sliding Window, BSTs and more!
+#### Upcoming: Searching Algorithms, Sliding Window, BSTs and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

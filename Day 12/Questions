@@ -1,0 +1,6 @@
+Day 12: Sorting Advanced
+1. Implement Merge Sort and analyze its time complexity.
+2. Implement Quick Sort and analyze its time complexity.
+3. Solve the "find kth smallest/largest element in an array" problem using Quick Select.
+4. Solve the "sort characters by frequency" problem.
+5. Solve the "minimum number of swaps required to sort an array" problem.

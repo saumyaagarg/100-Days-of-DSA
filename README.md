@@ -27,8 +27,9 @@ Here’s an overview of the topics covered so far:
 - **Day 10**: Linked Lists Basics
 - **Day 11**: Sorting Basics
 - **Day 12**: Sorting Advanced
+- **Day 13**: Searching Basics
   
-#### Upcoming: Searching Algorithms, Sliding Window, BSTs and more!
+#### Upcoming: Advanced Recursion, Sliding Window, BSTs and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

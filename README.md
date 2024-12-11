@@ -28,6 +28,7 @@ Here’s an overview of the topics covered so far:
 - **Day 11**: Sorting Basics
 - **Day 12**: Sorting Advanced
 - **Day 13**: Searching Basics
+- **Day 14**: Searching Advanced
   
 #### Upcoming: Advanced Recursion, Sliding Window, BSTs and more!
 #### Stay tuned for regular updates as I progress through this challenge!

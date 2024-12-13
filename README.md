@@ -32,8 +32,9 @@ Here’s an overview of the topics covered so far:
 
 ### **Week 3: Pointers, Binary Trees, and Heaps**
 - **Day 15**: Advanced Recursion
+- **Day 16**: Sliding Window Technique
   
-#### Upcoming: Sliding Window, Two Pointers, BSTs and more!
+#### Upcoming: Two Pointers, BSTs, Heaps and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

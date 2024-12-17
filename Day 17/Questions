@@ -1,0 +1,6 @@
+Day 17: Prefix Sum and Two Pointers
+1. Solve the "subarray sum equals k" problem using prefix sum.
+2. Solve the "longest subarray with sum k" problem using prefix sum.
+3. Solve the "find a pair with a given sum in a sorted array" problem using two pointers.
+4. Solve the "three sum" problem using two pointers.
+5. Solve the "trap rainwater" problem using two pointers.

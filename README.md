@@ -36,8 +36,9 @@ Here’s an overview of the topics covered so far:
 - **Day 17**: Prefix Sum and Two Pointers
 - **Day 18**: Binary Trees Basics
 - **Day 19**: Binary Trees Advanced
+- **Day 20**: Binary Search Trees (BST)
   
-#### Upcoming: BSTs, Heaps, Priority Queues and more!
+#### Upcoming: Heaps, Priority Queues, Graphs, and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

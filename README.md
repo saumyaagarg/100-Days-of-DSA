@@ -34,6 +34,8 @@ Here’s an overview of the topics covered so far:
 - **Day 15**: Advanced Recursion
 - **Day 16**: Sliding Window Technique
 - **Day 17**: Prefix Sum and Two Pointers
+- **Day 18**: Binary Trees Basics
+- **Day 19**: Binary Trees Advanced
   
 #### Upcoming: BSTs, Heaps, Priority Queues and more!
 #### Stay tuned for regular updates as I progress through this challenge!

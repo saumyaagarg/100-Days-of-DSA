@@ -1,0 +1,6 @@
+Day 20: Binary Search Trees (BST)
+1. Implement a binary search tree with insertion, deletion, and search operations.
+2. Solve the "validate if a tree is a binary search tree" problem.
+3. Solve the "find the kth smallest/largest element in a BST" problem.
+4. Solve the "find the floor and ceil of a given key in a BST" problem.
+5. Solve the "convert a BST to a sorted doubly linked list" problem.

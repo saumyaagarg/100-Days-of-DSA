@@ -1,0 +1,6 @@
+Day 21: Heaps Basics
+1. Implement a max heap and min heap from scratch using arrays.
+2. Solve the "k largest elements in an array" problem using a min heap.
+3. Solve the "kth smallest element in a matrix" problem using a min heap.
+4. Solve the "merge k sorted arrays" problem using a heap.
+5. Solve the "find median from a data stream" problem using two heaps.

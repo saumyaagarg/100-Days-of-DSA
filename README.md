@@ -37,8 +37,9 @@ Here’s an overview of the topics covered so far:
 - **Day 18**: Binary Trees Basics
 - **Day 19**: Binary Trees Advanced
 - **Day 20**: Binary Search Trees (BST)
+- **Day 21**: Heaps Basics
   
-#### Upcoming: Heaps, Priority Queues, Graphs, and more!
+#### Upcoming: Priority Queues, Graphs, DP, and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

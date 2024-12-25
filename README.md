@@ -41,8 +41,9 @@ Here’s an overview of the topics covered so far:
 
 ### **Week 4: Priority Queues, Graphs, and DP**
 - **Day 22**: Priority Queues
+- **Day 23**: Graph Basics
   
-#### Upcoming: Graphs, DP, Tries, and more!
+#### Upcoming: Advanced Graphs, DP, Tries, and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

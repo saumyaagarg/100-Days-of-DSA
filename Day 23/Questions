@@ -1,0 +1,6 @@
+Day 23: Graph Basics
+1. Represent a graph using an adjacency list and an adjacency matrix.
+2. Implement depth-first search (DFS) for a graph.
+3. Implement breadth-first search (BFS) for a graph.
+4. Solve the "number of islands" problem using BFS/DFS.
+5. Solve the "detect a cycle in an undirected graph" problem using DFS.

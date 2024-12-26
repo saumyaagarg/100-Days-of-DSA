@@ -1,0 +1,6 @@
+Day 25: Advanced Graphs
+1. Implement Dijkstra's algorithm for finding the shortest path in a weighted graph.
+2. Solve the "network delay time" problem using Dijkstra's algorithm.
+3. Implement Kruskal's algorithm to find the minimum spanning tree of a graph.
+4. Solve the "minimum cost to connect all points" problem using Prim’s algorithm.
+5. Solve the "alien dictionary" problem using topological sorting.

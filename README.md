@@ -43,8 +43,9 @@ Here’s an overview of the topics covered so far:
 - **Day 22**: Priority Queues
 - **Day 23**: Graph Basics
 - **Day 24**: Graph Traversals
+- **Day 24**: Advanced Graphs
   
-#### Upcoming: Advanced Graphs, DP, Tries, and more!
+#### Upcoming: Advanced DP, Tries, Segment Trees and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

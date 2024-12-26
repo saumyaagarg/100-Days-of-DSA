@@ -1,0 +1,6 @@
+Day 26: Dynamic Programming Basics
+1. Solve the "fibonacci sequence" problem using recursion, memoization, and tabulation.
+2. Solve the "climbing stairs" problem using dynamic programming.
+3. Solve the "house robber" problem using dynamic programming.
+4. Solve the "minimum cost path in a grid" problem using dynamic programming.
+5. Solve the "maximum sum of non-adjacent elements in an array" problem.

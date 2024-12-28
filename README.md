@@ -48,8 +48,11 @@ Here’s an overview of the topics covered so far:
 - **Day 26**: Dynamic Programming Basics
 - **Day 27**: Dynamic Programming Intermediate
 - **Day 28**: Advanced Dynamic Programming
+
+### **Week 5: Tries, Advanced Graphs, and Segment Trees**
+- **Day 29**: Tries
   
-#### Upcoming: Tries, Advanced Graphs, Segment Trees and more!
+#### Upcoming: Advanced Graphs, Segment Trees, Advanced DP and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

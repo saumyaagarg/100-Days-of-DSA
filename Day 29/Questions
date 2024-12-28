@@ -1,0 +1,6 @@
+Day 29: Tries
+1. Implement a trie and its basic operations (insert, search, delete).
+2. Solve the "prefix search in a list of words" problem using a trie.
+3. Solve the "longest word in a dictionary" problem using a trie.
+4. Solve the "replace words in a sentence" problem using a trie.
+5. Solve the "implement autocomplete system" problem using a trie.

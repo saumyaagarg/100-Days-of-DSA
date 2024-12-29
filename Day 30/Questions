@@ -1,0 +1,6 @@
+Day 30: Advanced Graphs and Union-Find
+1. Implement the Union-Find algorithm with path compression.
+2. Solve the "detect a cycle in an undirected graph" problem using Union-Find.
+3. Solve the "smallest string with swaps" problem using Union-Find.
+4. Solve the "connected components in an undirected graph" problem using Union-Find.
+5. Solve the "accounts merge" problem using Union-Find.

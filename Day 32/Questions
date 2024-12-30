@@ -1,0 +1,6 @@
+Day 32: Graphs - Hard Problems
+1. Solve the "minimum cost to make at least one path between any two nodes" problem.
+2. Solve the "cheapest flights within k stops" problem using modified BFS.
+3. Solve the "find the redundant directed connection in a graph" problem.
+4. Solve the "find critical edges in a graph" problem.
+5. Solve the "find the smallest cycle in a graph" problem.

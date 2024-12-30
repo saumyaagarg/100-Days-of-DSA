@@ -53,8 +53,9 @@ Here’s an overview of the topics covered so far:
 - **Day 29**: Tries
 - **Day 30**: Advanced Graphs and Union-Find
 - **Day 31**: Advanced Graphs
+- **Day 32**: Graphs - Hard Problems
   
-#### Upcoming: Graphs - Hard Problems, Segment Trees, Advanced DP and more!
+#### Upcoming: Segment Trees, Advanced DP, Greedy Algorithms and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

@@ -1,0 +1,6 @@
+Day 31: Advanced Graphs
+1. Solve the "shortest path in a directed acyclic graph (DAG)" problem using topological sorting.
+2. Solve the "Bellman-Ford algorithm" problem for graphs with negative weights.
+3. Solve the "find all bridges in a graph" problem using Tarjan’s algorithm.
+4. Solve the "find articulation points in a graph" problem using Tarjan’s algorithm.
+5. Solve the "strongly connected components (SCC)" problem using Kosaraju's algorithm.

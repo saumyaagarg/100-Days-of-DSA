@@ -1,0 +1,6 @@
+Day 33: Segment Trees Basics
+1. Implement a segment tree to find the sum of a range in an array.
+2. Modify the segment tree to support point updates and range queries.
+3. Solve the "range minimum query (RMQ)" problem using a segment tree.
+4. Implement a segment tree to count the number of elements in a range greater than a given value.
+5. Solve the "range XOR query" problem using a segment tree.

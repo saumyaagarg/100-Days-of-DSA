@@ -1,0 +1,6 @@
+Day 34: Segment Trees Advanced
+1. Implement a lazy propagation mechanism for range updates in a segment tree.
+2. Solve the "range add and range sum query" problem using lazy propagation.
+3. Solve the "maximum prefix sum in a range" problem using a segment tree.
+4. Solve the "number of distinct elements in a range" problem using a segment tree.
+5. Solve the "merge k sorted arrays using a segment tree" problem.

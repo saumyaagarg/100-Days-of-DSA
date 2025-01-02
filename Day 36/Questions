@@ -1,0 +1,6 @@
+Day 36: Dynamic Programming on Trees
+1. Solve the "find the diameter of a tree" problem using dynamic programming.
+2. Solve the "longest path in a tree with constraints" problem.
+3. Solve the "maximum sum of nodes such that no two nodes are adjacent" problem.
+4. Solve the "count all paths between two nodes with a sum divisible by k" problem.
+5. Solve the "subtree sum queries" problem using dynamic programming on trees.

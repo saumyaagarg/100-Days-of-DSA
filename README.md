@@ -58,7 +58,7 @@ Here’s an overview of the topics covered so far:
 - **Day 34**: Segment Trees Advanced
 - **Day 35**: Advanced Dynamic Programming
 
-### **Week 6: **
+### **Week 6: DP, Greedy Algorithms, and Advanced Data Structures**
 - **Day 36**: Dynamic Programming on Trees
   
 #### Upcoming: Greedy Algorithms, Bit Manipulation, and Game Theory and more!

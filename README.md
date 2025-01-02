@@ -55,8 +55,9 @@ Here’s an overview of the topics covered so far:
 - **Day 31**: Advanced Graphs
 - **Day 32**: Graphs - Hard Problems
 - **Day 33**: Segment Trees Basics
+- **Day 34**: Segment Trees Advanced
   
-#### Upcoming: Advanced Segment Trees, Advanced DP, Greedy Algorithms and more!
+#### Upcoming: Advanced DP, Greedy Algorithms, Bit Manipulation and more!
 #### Stay tuned for regular updates as I progress through this challenge!
 
 ## 🤝 Contributing

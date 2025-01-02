@@ -43,7 +43,6 @@ Here’s an overview of the topics covered so far:
 - **Day 22**: Priority Queues
 - **Day 23**: Graph Basics
 - **Day 24**: Graph Traversals
-- **Day 24**: Advanced Graphs
 - **Day 25**: Advanced Graphs
 - **Day 26**: Dynamic Programming Basics
 - **Day 27**: Dynamic Programming Intermediate
